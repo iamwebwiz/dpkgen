@@ -22,4 +22,4 @@ Run the following to install dependencies of the project: `npm install`
 
 To run the tests use `npm test`
 
-If you are using **yarn**, swap out the **npm** in the commands for **yarn** and you'd be good to go
+If you are using **yarn**, swap out **npm** in the commands above for **yarn** and you'd be good to go
